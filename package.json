@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "@percy/script": "^1.1.0",
-    "bulma": "^0.8.0",
+    "bulma": "^0.9.1",
     "bulma-extensions": "^6.2.7",
     "feather-icons": "^4.7.0",
     "http-server": "^0.12.3",
