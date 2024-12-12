@@ -60,7 +60,7 @@
     "bulma-extensions": "^6.2.7",
     "feather-icons": "^4.7.0",
     "http-server": "^0.12.3",
-    "jquery": "^3.5.1",
+    "jquery": "^3.6.0",
     "jquery-waypoints": "^2.0.5",
     "jquery.counterup": "^2.1.0",
     "scrollreveal": "^3.4.0",
